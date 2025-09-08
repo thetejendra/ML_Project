@@ -1,0 +1,6 @@
+1. Create readme file and requirement.txt
+2. setup.py
+3. create src folder- 1) __init__.py 2) logger.py 3)exception.py 4)utils.py
+          |_ components(module) folder -> 1.__init__.py 2. data_ingestion.py  3. data_transformation.py 4. model_trainer.py
+          |_ pipeline folder -> 1. train_pipeline.py 2. predict_pipeline.py 3. __init__.py
+          |_ 

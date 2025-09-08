@@ -1,0 +1,8 @@
+# -e . -is used to redirect this to setup.py files
+numpy 
+pandas
+seaborn
+matplotlib
+-e .
+setuptools
+sys
